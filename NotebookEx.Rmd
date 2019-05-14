@@ -2,13 +2,13 @@
 title: "Notebook"
 author: "Nan"
 date: "5/14/2019"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-
+## added this line
 ## Here is an example of an R Markdown document
 
   - Introduction presentation
